@@ -1,4 +1,4 @@
-# Báo Cáo Phản Tỉnh Cá Nhân (Reflection) - Hackathon
+# Báo Cáo Cá Nhân (Reflection) - Hackathon
 
 ## 1. Role
 **UI Lead (Phụ trách Giao diện người dùng)**. Tôi đảm nhận việc thiết kế luồng tương tác và triển khai mã nguồn phát triển Frontend cho dự án VinMec Lumina.
